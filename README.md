@@ -25,7 +25,7 @@ This project is designed as a learning exercise to explore the mechanisms of asy
 ### Languages
 - JavaScript (ES6+)
 
-### Frameworks and Technologies
+### Frameworks and Libraries
 - **Node.js**: JavaScript runtime used for backend functionality.
 - **Superagent**: A lightweight HTTP request library used for making API calls in asynchronous JavaScript.
 
